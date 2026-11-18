@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80 80 640 640" width="800" height="800" role="img" aria-label="Sorvete de morango">
+    <defs>
+        <pattern id="waffle" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+            <path d="M0 0H28M0 0V28" stroke="#D79B55" stroke-width="7" fill="none"/>
+        </pattern>
+    </defs>
+
+    <rect width="800" height="800" fill="#FFF3F8"/>
+    <circle cx="400" cy="400" r="290" fill="#FFFFFF" opacity="0.55"/>
+    <ellipse cx="400" cy="668" rx="152" ry="22" fill="#263D91" opacity="0.1"/>
+
+    <g stroke="#3D2B24" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M300 430H500L400 660Z" fill="#F2C48B"/>
+        <path d="M300 430H500L400 660Z" fill="url(#waffle)" stroke="none"/>
+        <path d="M300 430H500" fill="none"/>
+    </g>
+
+    <g stroke="#3D2B24" stroke-width="10" stroke-linejoin="round">
+        <circle cx="400" cy="318" r="132" fill="#FFA9C6"/>
+        <ellipse cx="352" cy="276" rx="42" ry="26" fill="#FFD3E2" stroke="none" transform="rotate(-28 352 276)"/>
+        <circle cx="466" cy="358" r="19" fill="#EE7BA5" stroke="none"/>
+        <circle cx="330" cy="376" r="14" fill="#EE7BA5" stroke="none"/>
+        <circle cx="424" cy="398" r="12" fill="#EE7BA5" stroke="none"/>
+        <circle cx="300" cy="322" r="10" fill="#FFD3E2" stroke="none"/>
+
+        <path d="M400 104c46 0 74 26 74 58 0 40-34 74-74 88-40-14-74-48-74-88 0-32 28-58 74-58Z" fill="#F2545B"/>
+        <g fill="#5FA34A">
+            <path d="M400 74c14 0 26 6 34 16-12 10-22 14-34 14s-22-4-34-14c8-10 20-16 34-16Z"/>
+            <path d="M330 104c12-10 26-12 38-8-2 14-8 24-18 30-10-4-17-12-20-22Z"/>
+            <path d="M470 104c-12-10-26-12-38-8 2 14 8 24 18 30 10-4 17-12 20-22Z"/>
+        </g>
+        <g fill="#FFE9A8" stroke="none">
+            <circle cx="374" cy="158" r="5"/>
+            <circle cx="426" cy="158" r="5"/>
+            <circle cx="400" cy="186" r="5"/>
+            <circle cx="372" cy="196" r="4"/>
+            <circle cx="428" cy="196" r="4"/>
+            <circle cx="400" cy="222" r="4"/>
+        </g>
+    </g>
+</svg>

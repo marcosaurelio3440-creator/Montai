@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80 80 640 640" width="800" height="800" role="img" aria-label="Confete colorido">
+    <rect width="800" height="800" fill="#FFF3F8"/>
+    <circle cx="400" cy="400" r="290" fill="#FFFFFF" opacity="0.55"/>
+    <ellipse cx="400" cy="672" rx="150" ry="22" fill="#263D91" opacity="0.1"/>
+
+    <g stroke="#3D2B24" stroke-width="10" stroke-linejoin="round" stroke-linecap="round">
+        <path d="M262 452h276l-30 154a54 54 0 0 1-54 48H346a54 54 0 0 1-54-48z" fill="#FFD3E2"/>
+        <ellipse cx="400" cy="452" rx="138" ry="40" fill="#FFE3EE"/>
+
+        <g stroke="none">
+            <rect x="330" y="430" width="48" height="16" rx="8" fill="#FFC94D" transform="rotate(22 354 438)"/>
+            <rect x="416" y="424" width="48" height="16" rx="8" fill="#7FA9F0" transform="rotate(-30 440 432)"/>
+            <rect x="372" y="462" width="46" height="16" rx="8" fill="#F2545B" transform="rotate(-12 395 470)"/>
+            <rect x="300" y="462" width="44" height="15" rx="7" fill="#6FC3A8" transform="rotate(34 322 470)"/>
+            <rect x="428" y="464" width="44" height="15" rx="7" fill="#C58BE0" transform="rotate(16 450 472)"/>
+            <rect x="352" y="504" width="44" height="15" rx="7" fill="#FFFFFF" transform="rotate(-26 374 512)"/>
+            <rect x="414" y="504" width="42" height="15" rx="7" fill="#FFC94D" transform="rotate(28 435 512)"/>
+            <rect x="322" y="528" width="40" height="14" rx="7" fill="#7FA9F0" transform="rotate(-8 342 535)"/>
+            <rect x="432" y="540" width="40" height="14" rx="7" fill="#F2545B" transform="rotate(42 452 547)"/>
+            <rect x="368" y="556" width="40" height="14" rx="7" fill="#6FC3A8" transform="rotate(14 388 563)"/>
+
+            <rect x="196" y="392" width="42" height="15" rx="7" fill="#7FA9F0" transform="rotate(-28 217 399)"/>
+            <rect x="560" y="376" width="42" height="15" rx="7" fill="#FFC94D" transform="rotate(36 581 383)"/>
+            <rect x="238" y="596" width="40" height="14" rx="7" fill="#C58BE0" transform="rotate(20 258 603)"/>
+            <rect x="546" y="608" width="40" height="14" rx="7" fill="#F2545B" transform="rotate(-34 566 615)"/>
+            <circle cx="222" cy="486" r="12" fill="#6FC3A8"/>
+            <circle cx="586" cy="486" r="12" fill="#FFC94D"/>
+            <circle cx="600" cy="330" r="10" fill="#F2545B"/>
+            <circle cx="196" cy="320" r="10" fill="#7FA9F0"/>
+        </g>
+    </g>
+</svg>

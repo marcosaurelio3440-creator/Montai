@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 534" width="800" height="534" role="img" aria-label="Dois sorvetes com casquinha">
+    <defs>
+        <pattern id="waffle" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+            <path d="M0 0H24M0 0V24" stroke="#D79B55" stroke-width="6" fill="none"/>
+        </pattern>
+    </defs>
+
+    <circle cx="286" cy="132" r="112" fill="#FFFFFF" opacity="0.12"/>
+    <circle cx="636" cy="408" r="76" fill="#FFFFFF" opacity="0.1"/>
+
+    <g opacity="0.9" stroke="none">
+        <rect x="96" y="128" width="34" height="11" rx="5.5" fill="#FFFFFF" transform="rotate(24 113 133)"/>
+        <rect x="652" y="146" width="34" height="11" rx="5.5" fill="#FFD3E2" transform="rotate(-30 669 151)"/>
+        <rect x="150" y="454" width="30" height="10" rx="5" fill="#FFFFFF" transform="rotate(14 165 459)"/>
+        <rect x="678" y="300" width="28" height="10" rx="5" fill="#FFC2D4" transform="rotate(36 692 305)"/>
+        <circle cx="120" cy="252" r="7" fill="#FFD3E2"/>
+        <circle cx="722" cy="224" r="8" fill="#FFFFFF" opacity="0.8"/>
+        <circle cx="238" cy="500" r="6" fill="#FFFFFF" opacity="0.7"/>
+        <circle cx="566" cy="64" r="6" fill="#FFD3E2"/>
+        <circle cx="404" cy="42" r="5" fill="#FFFFFF" opacity="0.7"/>
+    </g>
+
+    <g transform="translate(400 267) scale(0.85) translate(-400 -267)" stroke="#FFF6FA" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(290 0) rotate(-8)">
+            <path d="M-72 244H72L0 462Z" fill="#F2C48B"/>
+            <path d="M-72 244H72L0 462Z" fill="url(#waffle)" stroke="none"/>
+            <circle cx="0" cy="180" r="98" fill="#FFA9C6"/>
+            <ellipse cx="-36" cy="146" rx="30" ry="18" fill="#FFD3E2" stroke="none"/>
+
+            <path d="M0 44c32 0 54 20 54 42 0 28-24 52-54 60-30-8-54-32-54-60 0-22 22-42 54-42Z" fill="#F2545B"/>
+            <g fill="#5FA34A">
+                <path d="M0 20c10 0 19 5 25 12-9 7-16 10-25 10s-16-3-25-10c6-7 15-12 25-12Z"/>
+                <path d="M-56 44c9-8 20-9 29-6-2 11-6 18-14 23-7-3-12-9-15-17Z"/>
+                <path d="M56 44c-9-8-20-9-29-6 2 11 6 18 14 23 7-3 12-9 15-17Z"/>
+            </g>
+        </g>
+
+        <g transform="translate(520 6) rotate(8)">
+            <path d="M-72 244H72L0 462Z" fill="#F2C48B"/>
+            <path d="M-72 244H72L0 462Z" fill="url(#waffle)" stroke="none"/>
+            <circle cx="0" cy="180" r="98" fill="#8A5134"/>
+            <ellipse cx="-36" cy="146" rx="30" ry="18" fill="#A9714C" stroke="none"/>
+
+            <path d="M22 116c20-10 40-2 46 12 6 14-2 28-18 32-18 4-34-4-38-18-2-10 0-18 10-26Z" fill="#6B3A22"/>
+            <path d="M-52 194c16-8 32-2 36 10 4 12-4 22-16 24-14 2-26-6-26-16 0-8 2-12 6-18Z" fill="#6B3A22"/>
+            <g fill="#4E2A18" stroke="none">
+                <circle cx="46" cy="230" r="12"/>
+                <circle cx="-42" cy="252" r="10"/>
+                <circle cx="6" cy="150" r="8"/>
+            </g>
+        </g>
+    </g>
+</svg>

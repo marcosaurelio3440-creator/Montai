@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80 80 640 640" width="800" height="800" role="img" aria-label="Sorvete de pistache">
+    <defs>
+        <pattern id="waffle" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+            <path d="M0 0H28M0 0V28" stroke="#D79B55" stroke-width="7" fill="none"/>
+        </pattern>
+    </defs>
+
+    <rect width="800" height="800" fill="#FFF3F8"/>
+    <circle cx="400" cy="400" r="290" fill="#FFFFFF" opacity="0.55"/>
+    <ellipse cx="400" cy="668" rx="152" ry="22" fill="#263D91" opacity="0.1"/>
+
+    <g stroke="#3D2B24" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M300 430H500L400 660Z" fill="#F2C48B"/>
+        <path d="M300 430H500L400 660Z" fill="url(#waffle)" stroke="none"/>
+        <path d="M300 430H500" fill="none"/>
+    </g>
+
+    <g stroke="#3D2B24" stroke-width="10" stroke-linejoin="round">
+        <circle cx="400" cy="318" r="132" fill="#B8DA8D"/>
+        <ellipse cx="348" cy="272" rx="44" ry="26" fill="#D6EBBA" stroke="none" transform="rotate(-26 348 272)"/>
+
+        <g fill="#8FB860" stroke="none">
+            <path d="M448 342c16-8 30-2 34 8 4 10-4 22-16 24-14 2-26-6-26-16 0-8 2-12 8-16Z"/>
+            <path d="M322 372c14-6 28 0 30 10 2 10-8 18-20 18-14 0-22-8-22-16 0-6 4-10 12-12Z"/>
+            <circle cx="404" cy="290" r="9"/>
+        </g>
+
+        <g transform="translate(486 236) rotate(24)">
+            <ellipse cx="0" cy="0" rx="34" ry="46" fill="#C9E3A3"/>
+            <path d="M0-42c10 20 10 64 0 84" fill="none" stroke="#7FA455" stroke-width="7"/>
+        </g>
+        <g transform="translate(430 190) rotate(-18)">
+            <ellipse cx="0" cy="0" rx="28" ry="38" fill="#DCEFC2"/>
+            <path d="M0-34c8 16 8 52 0 68" fill="none" stroke="#7FA455" stroke-width="6"/>
+        </g>
+    </g>
+</svg>

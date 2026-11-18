@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80 80 640 640" width="800" height="800" role="img" aria-label="Doce de leite">
+    <rect width="800" height="800" fill="#FFF3F8"/>
+    <circle cx="400" cy="400" r="290" fill="#FFFFFF" opacity="0.55"/>
+    <ellipse cx="400" cy="672" rx="152" ry="22" fill="#263D91" opacity="0.1"/>
+
+    <g stroke="#3D2B24" stroke-width="10" stroke-linejoin="round" stroke-linecap="round">
+        <rect x="292" y="300" width="228" height="60" rx="22" fill="#FFA9C6"/>
+        <path d="M312 360h188l-16 232a46 46 0 0 1-46 42h-64a46 46 0 0 1-46-42z" fill="#F5E9DC"/>
+        <path d="M330 400h152l-12 186a24 24 0 0 1-24 22h-80a24 24 0 0 1-24-22z" fill="#C88A45"/>
+        <ellipse cx="406" cy="402" rx="76" ry="22" fill="#DCA461"/>
+        <ellipse cx="374" cy="396" rx="26" ry="9" fill="#EFC47F" stroke="none"/>
+
+        <path d="M330 388c0 26 10 34 20 44 8 8 4 18-4 24" fill="none" stroke="#C88A45" stroke-width="22"/>
+        <path d="M330 388c0 26 10 34 20 44 8 8 4 18-4 24" fill="none" stroke="#3D2B24" stroke-width="8"/>
+        <circle cx="344" cy="466" r="13" fill="#C88A45"/>
+    </g>
+</svg>

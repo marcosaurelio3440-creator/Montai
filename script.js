@@ -344,8 +344,8 @@ function atualizarCarrinho() {
         artigo.className = "item-carrinho";
 
         const imagem = item.tipo === "personalizado"
-            ? "assets/img/sorvete-banner.jpg"
-            : "assets/img/chocolate.jpg";
+            ? "assets/img/sorvete-banner.svg"
+            : "assets/img/chocolate.svg";
 
         const descricao = item.descricao || item.nome;
 

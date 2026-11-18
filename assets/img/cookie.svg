@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80 80 640 640" width="800" height="800" role="img" aria-label="Cookie com gotas de chocolate">
+    <rect width="800" height="800" fill="#FFF3F8"/>
+    <circle cx="400" cy="400" r="290" fill="#FFFFFF" opacity="0.55"/>
+    <ellipse cx="400" cy="668" rx="160" ry="22" fill="#263D91" opacity="0.1"/>
+
+    <g stroke="#3D2B24" stroke-width="10" stroke-linejoin="round" stroke-linecap="round">
+        <g transform="translate(268 452) rotate(-12)">
+            <circle cx="0" cy="0" r="118" fill="#C98F4F"/>
+            <circle cx="-34" cy="-30" r="14" fill="#4E2A18" stroke="none"/>
+            <circle cx="30" cy="-46" r="12" fill="#4E2A18" stroke="none"/>
+            <circle cx="46" cy="18" r="13" fill="#4E2A18" stroke="none"/>
+            <circle cx="-8" cy="44" r="12" fill="#4E2A18" stroke="none"/>
+            <circle cx="-52" cy="26" r="10" fill="#4E2A18" stroke="none"/>
+        </g>
+
+        <g transform="translate(448 400) rotate(8)">
+            <circle cx="0" cy="0" r="150" fill="#D9A15C"/>
+            <circle cx="0" cy="0" r="150" fill="none"/>
+            <g fill="#4E2A18" stroke="none">
+                <circle cx="-46" cy="-42" r="19"/>
+                <circle cx="34" cy="-54" r="16"/>
+                <circle cx="58" cy="10" r="18"/>
+                <circle cx="-16" cy="46" r="17"/>
+                <circle cx="-70" cy="30" r="14"/>
+                <circle cx="10" cy="-6" r="13"/>
+                <circle cx="80" cy="58" r="12"/>
+                <circle cx="-40" cy="84" r="11"/>
+            </g>
+            <g fill="#E9BE86" stroke="none" opacity="0.8">
+                <circle cx="-84" cy="-40" r="7"/>
+                <circle cx="70" cy="-78" r="6"/>
+                <circle cx="-96" cy="62" r="6"/>
+            </g>
+        </g>
+    </g>
+</svg>
